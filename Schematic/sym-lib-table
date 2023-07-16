@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "motor-rescue")(type "Legacy")(uri "${KIPRJMOD}/motor-rescue.lib")(options "")(descr ""))
+  (lib (name "libraryloader")(type "KiCad")(uri "/home/james/Documents/kicad/STSPIN32G4.kicad_sym")(options "")(descr ""))
+)
